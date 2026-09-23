@@ -18,3 +18,7 @@ buildNumber.properties
 
 # mac stuff
 .DS_Store
+
+# IntelliJ
+.idea
+
